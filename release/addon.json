@@ -1,0 +1,13 @@
+{
+    "title": "My map",
+    "description": "",
+    "type": "map",
+    "tags": [
+        "scenic",
+        "realism"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md"
+    ]
+}
