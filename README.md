@@ -59,7 +59,7 @@ After cloning this, fill in all of the `TODO` parts.
 <br>
 <br>
 
-# How to build a new RELEASE version
+# How to release your map
 
 ## Build the map & pack custom content into it
 1. Rename the map source file
@@ -133,7 +133,7 @@ After cloning this, fill in all of the `TODO` parts.
 <br>
 <br>
 
-# Publish to the workshop
+## Publish to the workshop
 
 1. Move the workshop version of the map into release/maps
 2. Add the thumbnail to release/maps/thumb/map_name.png
