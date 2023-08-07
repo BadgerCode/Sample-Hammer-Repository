@@ -24,10 +24,21 @@ After cloning this, fill in all of the `TODO` parts.
 2. Sign up to GitHub to host your projects
     * Alternative- GitLab
 3. Follow the guides on [how to use GitHub desktop](https://docs.github.com/en/desktop)
-4. To make changes to the project
-    * Make your changes to the files
-    * Add & commit all changed files in GitHub Desktop
-    * Push the changes up to GitHub
+
+### Making changes
+* Make your changes to the files
+* Add & commit all changed files in GitHub Desktop
+* Push the changes up to GitHub
+
+### Using a previous version of the project
+* View the History in GitHub Desktop
+* Right click on the point (commit) that you want to go back to
+* Select "Create branch from commit" to create a temporary branch
+    * Give it a name E.g. `temp`
+* **Important**: If you make any changes at this point, it will be difficult to add them to the later version of the project
+* Look around the files
+* Once you want to go back, select `Current branch` in GitHub Desktop, and select `master`
+    * You can right click on your temporary branch to delete it
 
 
 
